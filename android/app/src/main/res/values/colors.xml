@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- #023 is the web app's theme-color -->
+    <color name="brand_primary">#002233</color>
+    <color name="brand_background">#FFFFFF</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <!-- Behind the icon on the splash screen -->
+    <color name="splash_background">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="progress_bar">#29B6F6</color>
+</resources>

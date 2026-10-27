@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Android 12+ splash icon: the 512px artwork, centred and sized so the rounded
+    square fits inside the system's circular icon area (192dp of 288dp).
+-->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/splash_logo"
+    android:inset="18.5%" />

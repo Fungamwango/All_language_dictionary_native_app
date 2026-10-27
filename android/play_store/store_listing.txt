@@ -1,0 +1,68 @@
+=== APP NAME (max 30) ===
+All Languages Dictionary
+
+=== SHORT DESCRIPTION (max 80) ===
+English into 100+ languages with examples, quiz, AI tutor and translator.
+
+=== FULL DESCRIPTION (max 4000) ===
+Learn English words in your own language with a dictionary built for learners, teachers, travellers and anyone who wants to speak a new language with confidence.
+
+7 FULL DICTIONARIES WITH EXAMPLES
+• Bemba, Nyanja, French, Portuguese, Spanish, Swahili and Zulu
+• Over 5,000 English words in each language
+• Every word comes with an example sentence in English and in your language
+• Search in English or in your language – suggestions appear as you type
+• Listen to entries read aloud with your phone's voice, even offline
+
+100+ MORE LANGUAGES
+• Choose any of over 100 other languages and look up English words in it when you are online
+• Change language any time from the top of the page
+
+WORKS OFFLINE
+• The 7 full dictionaries are inside the app – no data needed to look up words
+• The quiz works without internet too
+
+QUIZ
+• 10-question quizzes from English to your language and back
+• Earn points and move up through the levels
+• Challenge friends and climb the leaderboard
+
+AI TUTOR
+• Ask questions about words, meanings and grammar
+• Get answers in English or in your language
+
+MORE
+• Translator between English and many languages
+• Bemba dictionary ebook to keep
+
+The app is free with ads and daily free limits. Unlimited access and the Bemba dictionary ebook can be bought in the app.
+
+Designed and programmed by Chanda Fungamwango Mark (SageTech), a software engineer and teacher from Nchelenge, Luapula Province.
+
+Questions or corrections? Contact us at chandamark386@gmail.com or 0962464552.
+
+=== CATEGORY ===
+App category: Education
+Tags (choose up to 5): Dictionary, Education, Language learning, Reference, Vocabulary
+
+=== CONTACT DETAILS ===
+Email: chandamark386@gmail.com
+Phone: +260962464552
+Website: https://alldic.pages.dev
+
+=== PRIVACY POLICY URL ===
+https://alldic.pages.dev/privacy.html
+
+=== ACCOUNT DELETION URL (Data safety form) ===
+https://alldic.pages.dev/delete-account.html
+
+=== GRAPHICS (files in this folder) ===
+App icon (512x512):        app_icon_512.png
+Feature graphic (1024x500): feature_graphic_1024x500.png
+Phone screenshots (1080x1920, upload in this order):
+  screenshots/01_dictionary.png
+  screenshots/02_search.png
+  screenshots/03_languages.png
+  screenshots/04_quiz.png
+  screenshots/05_ai_tutor.png
+  screenshots/06_translator.png
